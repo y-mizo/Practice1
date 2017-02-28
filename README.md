@@ -11,4 +11,4 @@
 * thankyou.php サンキューページ
 
 ## 動作確認
-YOUR_HOST_NAME/Practice1/ にアクセスし、動作確認する。
+YOUR_HOSTNAME/Practice1/ にアクセスし、動作確認する。
