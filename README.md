@@ -7,8 +7,8 @@
 
 ## 作成するファイルは3つ
 * index.php 投稿画面
-* inquiry.php 確認画面
+* confirm.php 確認画面
 * thankyou.php サンキューページ
 
 ## 動作確認
-YOUR_HOST_NAME/inquiry/ にアクセスし、動作確認する。
+YOUR_HOST_NAME/Practice1/ にアクセスし、動作確認する。
